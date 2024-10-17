@@ -18,5 +18,6 @@ echo  " `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--' "
 
 echo Hello anh Dung Ha
 echo Hello thanh boc cc
+echo Hello hai Dong
 pause
 exit
