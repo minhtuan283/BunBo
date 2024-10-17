@@ -17,6 +17,6 @@ echo  "\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /"
 echo  " `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--' "
 
 echo Hello anh Dung Ha
-echo
+echo Hello thanh boc cc
 pause
 exit
